@@ -2,7 +2,7 @@
 partie de Titouan
 
 Planning :
-1ère semaine :
+1ère semaine : son des taupes
 2ème semaine : timer
 3ème semaine : utilisation du laser sur les taupes
 4ème semaine : sorties des taupes

@@ -1,0 +1,3 @@
+1er Cours projet :
+Nous avons commencé à réfléchir au fonctionnement de notre tape-taupe(comment les faire remonter, comment afficher le timer ou le score)
+J'ai commencé à regarder pour faire des sons quand les taupes sortent, rentrent ou encore si il y a une taupe spéciale qui arrive. Mais à cause du problème de l'arduino que la majorité de la classe a eu (on a su en toute fin de cours qu'il fallait réinstaller le driver ch340). J'ai donc du partir sur autre chose et j'ai commencer à réfléchir à comment l'on pourra tout mettre en commun et les problèmes qu'on auraient en mettant le tout en commun pour ensuite me renseigner sur le fonctionnement des buzzers(pour les taupes), son branchement et comment on pourrait les lier ensemble.

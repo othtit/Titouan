@@ -1,0 +1,2 @@
+rapport de stage semaine 2 :
+Nous avons décidé avec Othmane de nous concentrés sur le fonctionnement du buzzer(qui fait du son) et du "buzzer" qui correspondent aux taupes. Nous avons du souder les fils au buzzer ppur ensuite le coder avec l'arduino pour voir comment fonctionner la lumiere dessus et pour le synchroniser avec le compteur. Nous avons aussi fait les sons des taupes (quand elles sortent, entrent et qd elle sont spéciales). 
